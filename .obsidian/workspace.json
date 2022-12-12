@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "3744a1d079dcd3fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "33eb23e40f95c1bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cdb0d6175508994",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b83fc1503607a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "da4551eb40d0295d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b8e4cdfbbaaa28",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69347d1eebf58c78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#intermediate",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379.5
+  },
+  "right": {
+    "id": "2468ce0511ed177b",
+    "type": "split",
+    "children": [
+      {
+        "id": "26ab67a274d01c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58854ce224b4028a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74ae1af11006fc99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5,
+    "collapsed": true
+  },
+  "active": "9cdb0d6175508994",
+  "lastOpenFiles": [
+    "Day Planners/Day Planner-20221212.md",
+    "Topics/Quant (S).md",
+    "Day Planners/Planning.md",
+    "Day Planners/C4R5.md",
+    "Day Planners/C4 Interlude (4).md",
+    "Sources/8. Quant/Derivatives & Fixed Income/Economics of Money & Banking Coursera (Mehrling).md",
+    "Sources/8. Quant/Derivatives & Fixed Income/Intro to Fixed Income Analytics (Fabozzi).md",
+    "Topics/Python (S).md",
+    "Topics/CS Fundamentals.md",
+    "Topics/Deep Learning (S).md"
+  ]
+}

@@ -1,0 +1,1800 @@
+{
+  "nodePositions": [
+    {
+      "id": "Topics/DL NLP Courses.md",
+      "x": 166.8662872314453,
+      "y": -1649.506591796875
+    },
+    {
+      "id": "Topics/Differential Geometry.md",
+      "x": 1126.9052734375,
+      "y": 763.910400390625
+    },
+    {
+      "id": "Topics/Economics.md",
+      "x": -1381.902099609375,
+      "y": 1925.4754638671875
+    },
+    {
+      "id": "Topics/Econs & Finance.md",
+      "x": -1475.089111328125,
+      "y": 1812.954345703125
+    },
+    {
+      "id": "Topics/Electrical Engineering.md",
+      "x": 507.3014221191406,
+      "y": -523.23974609375
+    },
+    {
+      "id": "Topics/Embedded Programming.md",
+      "x": 570.4558715820312,
+      "y": -655.0532836914062
+    },
+    {
+      "id": "Topics/Evolutionary Biology.md",
+      "x": -2037.0648193359375,
+      "y": -810.5773315429688
+    },
+    {
+      "id": "Topics/Facehacking Adjacent Content.md",
+      "x": -1250.64990234375,
+      "y": -1154.3680419921875
+    },
+    {
+      "id": "Topics/Facehacking.md",
+      "x": -1309.9434814453125,
+      "y": -1285.9444580078125
+    },
+    {
+      "id": "Topics/Finance.md",
+      "x": -1604.682861328125,
+      "y": 1747.7926025390625
+    },
+    {
+      "id": "Topics/Functional Analysis.md",
+      "x": 1009.1326293945312,
+      "y": 97.32059478759766
+    },
+    {
+      "id": "Topics/General Relativity.md",
+      "x": 1344.6156005859375,
+      "y": -1787.21240234375
+    },
+    {
+      "id": "Topics/Generative Learning.md",
+      "x": -240.65577697753906,
+      "y": -2059.49658203125
+    },
+    {
+      "id": "Topics/Genetics.md",
+      "x": -1837.8677978515625,
+      "y": -802.3536987304688
+    },
+    {
+      "id": "Topics/Go.md",
+      "x": -1320.5023193359375,
+      "y": 1008.155029296875
+    },
+    {
+      "id": "Topics/Graph Learning.md",
+      "x": -327.6234436035156,
+      "y": -1976.8135986328125
+    },
+    {
+      "id": "Topics/Graph Theory.md",
+      "x": 1704.328125,
+      "y": -474.5843505859375
+    },
+    {
+      "id": "Topics/HTML & CSS.md",
+      "x": -1697.76025390625,
+      "y": 254.6820068359375
+    },
+    {
+      "id": "Topics/High Frequency Trading.md",
+      "x": -103.65399932861328,
+      "y": 1999.82861328125
+    },
+    {
+      "id": "Topics/Huggingface Transformers.md",
+      "x": 209.39808654785156,
+      "y": -1832.77783203125
+    },
+    {
+      "id": "Topics/Immunology.md",
+      "x": -1940.2230224609375,
+      "y": -739.9127197265625
+    },
+    {
+      "id": "Topics/Information Theory.md",
+      "x": 363.91156005859375,
+      "y": -436.5977478027344
+    },
+    {
+      "id": "Topics/Java.md",
+      "x": -1541.425048828125,
+      "y": 306.6158142089844
+    },
+    {
+      "id": "Topics/JavaScript.md",
+      "x": -1870.9849853515625,
+      "y": 95.70851135253906
+    },
+    {
+      "id": "Topics/Linear Algebra.md",
+      "x": 1415.130126953125,
+      "y": -227.54092407226562
+    },
+    {
+      "id": "Topics/MLOps.md",
+      "x": -921.126708984375,
+      "y": 348.2307434082031
+    },
+    {
+      "id": "Topics/Machine Learning.md",
+      "x": -371.380126953125,
+      "y": -1621.6871337890625
+    },
+    {
+      "id": "Topics/Manim.md",
+      "x": -1443.847900390625,
+      "y": -1348.373291015625
+    },
+    {
+      "id": "Topics/Mathematics.md",
+      "x": 1670.0418701171875,
+      "y": -330.7742004394531
+    },
+    {
+      "id": "Topics/Measure Theory.md",
+      "x": 911.9624633789062,
+      "y": 562.529052734375
+    },
+    {
+      "id": "Topics/Mechanical Engineering.md",
+      "x": 1851.608642578125,
+      "y": -873.8377075195312
+    },
+    {
+      "id": "Topics/Molecular Biology.md",
+      "x": -1748.0814208984375,
+      "y": -1020.516845703125
+    },
+    {
+      "id": "Topics/Native Dev.md",
+      "x": -1245.1656494140625,
+      "y": 787.7335815429688
+    },
+    {
+      "id": "Topics/Neuroscience.md",
+      "x": -1850.8883056640625,
+      "y": -1082.188720703125
+    },
+    {
+      "id": "Topics/Number Theory.md",
+      "x": 1520.42822265625,
+      "y": -326.3365478515625
+    },
+    {
+      "id": "Topics/Numerical Analysis.md",
+      "x": -1050.02978515625,
+      "y": 1.9626634120941162
+    },
+    {
+      "id": "Topics/OCaml.md",
+      "x": -1053.6776123046875,
+      "y": 739.3944091796875
+    },
+    {
+      "id": "Topics/Operating Systems (S).md",
+      "x": -1045.3428955078125,
+      "y": -122.71111297607422
+    },
+    {
+      "id": "Topics/Ordinary Differential Equations.md",
+      "x": 1810.872802734375,
+      "y": 638.9231567382812
+    },
+    {
+      "id": "Topics/Organic Chemistry.md",
+      "x": -1526.0391845703125,
+      "y": -593.1333618164062
+    },
+    {
+      "id": "Topics/Partial Differential Equations.md",
+      "x": 2005.50048828125,
+      "y": 886.9085693359375
+    },
+    {
+      "id": "Topics/Personal.md",
+      "x": -1195.6778564453125,
+      "y": -1374.3125
+    },
+    {
+      "id": "Topics/Pharmacology.md",
+      "x": -1718.045166015625,
+      "y": -796.63037109375
+    },
+    {
+      "id": "Topics/Physics.md",
+      "x": 1495.9144287109375,
+      "y": -709.8037109375
+    },
+    {
+      "id": "Topics/Physiology.md",
+      "x": -2054.824951171875,
+      "y": -1022.835693359375
+    },
+    {
+      "id": "Topics/Portfolio Management.md",
+      "x": 72.80178833007812,
+      "y": 1959.1591796875
+    },
+    {
+      "id": "Topics/Probability.md",
+      "x": 924.2862548828125,
+      "y": 1764.02490234375
+    },
+    {
+      "id": "Topics/Python (Web Dev).md",
+      "x": -1600.6705322265625,
+      "y": 21.281280517578125
+    },
+    {
+      "id": "Topics/Python.md",
+      "x": -1024.7987060546875,
+      "y": 898.8468017578125
+    },
+    {
+      "id": "Topics/Quant (S).md",
+      "x": -201.03370666503906,
+      "y": 1892.48486328125
+    },
+    {
+      "id": "Topics/Quant Libraries (Tools).md",
+      "x": 170.1436309814453,
+      "y": 1834.92529296875
+    },
+    {
+      "id": "Topics/Quantum Mechanics (S).md",
+      "x": 1060.50390625,
+      "y": -1348.25390625
+    },
+    {
+      "id": "Topics/Radio Frequency.md",
+      "x": 450.6727294921875,
+      "y": -661.8860473632812
+    },
+    {
+      "id": "Topics/Real Analysis.md",
+      "x": 1413.3155517578125,
+      "y": 523.0831909179688
+    },
+    {
+      "id": "Topics/Regression.md",
+      "x": 1235.285400390625,
+      "y": 1688.2833251953125
+    },
+    {
+      "id": "Topics/Reinforcement Learning.md",
+      "x": 15.829477310180664,
+      "y": -2007.428955078125
+    },
+    {
+      "id": "Topics/Retail Analytics.md",
+      "x": -481.0510559082031,
+      "y": -1356.7969970703125
+    },
+    {
+      "id": "Topics/Rust.md",
+      "x": -1442.4010009765625,
+      "y": 921.5189819335938
+    },
+    {
+      "id": "Topics/Signal Processing.md",
+      "x": 486.0578918457031,
+      "y": -311.3605041503906
+    },
+    {
+      "id": "Topics/Snowflake.md",
+      "x": -1290.280517578125,
+      "y": 562.8671264648438
+    },
+    {
+      "id": "Topics/Special Relativity.md",
+      "x": 1358.02783203125,
+      "y": -1383.430419921875
+    },
+    {
+      "id": "Topics/Statistical Mechanics.md",
+      "x": 704.6107788085938,
+      "y": -1507.2772216796875
+    },
+    {
+      "id": "Topics/Statistics (S).md",
+      "x": 1061.56396484375,
+      "y": 1626.5274658203125
+    },
+    {
+      "id": "Topics/Stochastic Processes & Calculus.md",
+      "x": 491.7015075683594,
+      "y": 628.7633666992188
+    },
+    {
+      "id": "Topics/Survival Analysis.md",
+      "x": 1109.1248779296875,
+      "y": 1830.773193359375
+    },
+    {
+      "id": "Topics/Systematic Trading (Concept-Based).md",
+      "x": -101.74179077148438,
+      "y": 1669.031494140625
+    },
+    {
+      "id": "Topics/Systematic Trading (Practice-Based).md",
+      "x": 71.44416809082031,
+      "y": 1623.06640625
+    },
+    {
+      "id": "Topics/Systematic Trading Fundamentals.md",
+      "x": -0.7119577527046204,
+      "y": 1797.5692138671875
+    },
+    {
+      "id": "Topics/Thermodynamics (S).md",
+      "x": 1466.6539306640625,
+      "y": -911.59326171875
+    },
+    {
+      "id": "Topics/Time Series.md",
+      "x": 842.184814453125,
+      "y": 1550.1978759765625
+    },
+    {
+      "id": "Topics/Topology.md",
+      "x": 1917.4844970703125,
+      "y": -223.7838592529297
+    },
+    {
+      "id": "Topics/Virology.md",
+      "x": -1773.0645751953125,
+      "y": -903.2407836914062
+    },
+    {
+      "id": "Topics/Web Dev SWE Concepts.md",
+      "x": -1481.0499267578125,
+      "y": 30.80693244934082
+    },
+    {
+      "id": "Topics/Web Dev.md",
+      "x": -1552.313720703125,
+      "y": 163.81678771972656
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Introduction to Linear Algebra (Strang).md",
+      "x": 1015.6500244140625,
+      "y": -152.29107666015625
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Linear Algebra (Meyer).md",
+      "x": 1037.959228515625,
+      "y": -301.6980895996094
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Linear Algebra Done Right (Axler).md",
+      "x": 1266.5382080078125,
+      "y": 97.8603286743164
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Linear Algebra for Optimization & ML (Aggarwal).md",
+      "x": 920.3489990234375,
+      "y": -389.46923828125
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Mathematics for Machine Learning (Deisenroth).md",
+      "x": 881.9591064453125,
+      "y": -238.00210571289062
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Theoretical Linear Algebra.md",
+      "x": 1299.0233154296875,
+      "y": -51.373538970947266
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Transition from Linear Algebra.md",
+      "x": 1131.630615234375,
+      "y": 5.843705654144287
+    },
+    {
+      "id": "Sources/2. Mathematics/Measure Theory/Measure, Integration & Real Analysis (Axler).md",
+      "x": 761.7177124023438,
+      "y": 616.6200561523438
+    },
+    {
+      "id": "Sources/2. Mathematics/Measure Theory/Measures, Integrals & Martingales (Schilling).md",
+      "x": 772.0466918945312,
+      "y": 480.4104919433594
+    },
+    {
+      "id": "Sources/2. Mathematics/Measure Theory/Transition from Measure Theory.md",
+      "x": 626.3350219726562,
+      "y": 541.6024780273438
+    },
+    {
+      "id": "Sources/2. Mathematics/Number Theory/Elementary Number Theory (Effinger).md",
+      "x": 1522.68994140625,
+      "y": -174.3542022705078
+    },
+    {
+      "id": "Sources/2. Mathematics/Real Analysis/Single Variable Real Analysis Course (Bramburger).md",
+      "x": 1229.0157470703125,
+      "y": 497.6204833984375
+    },
+    {
+      "id": "Sources/2. Mathematics/Real Analysis/Transition from Analysis.md",
+      "x": 1088.45361328125,
+      "y": 600.2007446289062
+    },
+    {
+      "id": "Sources/2. Mathematics/Real Analysis/Transition from PDEs.md",
+      "x": 2145.31201171875,
+      "y": 1073.0948486328125
+    },
+    {
+      "id": "Sources/2. Mathematics/Real Analysis/Understanding Analysis (Abbott).md",
+      "x": 1259.5916748046875,
+      "y": 613.651611328125
+    },
+    {
+      "id": "Sources/2. Mathematics/Stochastic Processes & Calculus/A Probability Path (Resnick).md",
+      "x": 346.35076904296875,
+      "y": 654.1361083984375
+    },
+    {
+      "id": "Sources/2. Mathematics/Stochastic Processes & Calculus/Stochastic Calc & Financial Applications (Steele).md",
+      "x": 438.91448974609375,
+      "y": 766.037841796875
+    },
+    {
+      "id": "Sources/2. Mathematics/Topology/Topology (Munkres).md",
+      "x": 2278.420654296875,
+      "y": 23.636966705322266
+    },
+    {
+      "id": "Sources/2. Mathematics/Topology/Topology without Tears (Morris).md",
+      "x": 2121.5703125,
+      "y": -71.92752838134766
+    },
+    {
+      "id": "Sources/2. Mathematics/Topology/Transition from Abstract Algebra.md",
+      "x": 2334.403076171875,
+      "y": -428.33355712890625
+    },
+    {
+      "id": "Sources/2. Mathematics/Topology/Transition from Topology.md",
+      "x": 2315.502197265625,
+      "y": 187.76454162597656
+    },
+    {
+      "id": "Sources/2. Mathematics/Topology/Understanding Topology (Ault).md",
+      "x": 2186.855224609375,
+      "y": 101.19300842285156
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Classical Machine Learning/Probabilistic Machine Learning (Murphy).md",
+      "x": -743.7079467773438,
+      "y": -1931.9091796875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Classical Machine Learning/Scikit-Learn Guide (Sklearn Official).md",
+      "x": -686.7116088867188,
+      "y": -1797.5989990234375
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Classical NLP/Advanced SpaCy Guide (SpaCy).md",
+      "x": -1039.260009765625,
+      "y": -1667.1383056640625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Classical NLP/Mastering SpaCy (Altinok).md",
+      "x": -895.6473388671875,
+      "y": -1622.421142578125
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Classical NLP/Python NLP Cookbook (Antic).md",
+      "x": -875.880859375,
+      "y": -1478.5491943359375
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Conformal Prediction/Algorithmic Learning in a Random World (Vovk) Dec '22.md",
+      "x": -878.4390258789062,
+      "y": -1109.4334716796875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Conformal Prediction/Awesome Conformal Prediction (Valeriy).md",
+      "x": -685.6904296875,
+      "y": -1205.073486328125
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Conformal Prediction/Conformal Prediction for Reliable ML (Vovk).md",
+      "x": -810.2446899414062,
+      "y": -1242.813232421875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Retail Analytics/Practical Recommender Systems (Falk).md",
+      "x": -371.67864990234375,
+      "y": -1256.2830810546875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Classical/Retail Analytics/Recommender Systems (Aggarwal).md",
+      "x": -494.65057373046875,
+      "y": -1204.961669921875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Computer Vision/Computer Vision Algorithms (Szelinski).md",
+      "x": -100.6005859375,
+      "y": -2300.716064453125
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Computer Vision/Learn OpenCV with Python (Howse).md",
+      "x": 3.7645692825317383,
+      "y": -2241.49462890625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Computer Vision/Modern Computer Vision with PyTorch (Ayyadevara).md",
+      "x": -215.33218383789062,
+      "y": -2265.5556640625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning Fundamentals/ML with PyTorch & Sklearn (Raschka).md",
+      "x": 86.31903839111328,
+      "y": -1364.154296875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning Fundamentals/NYU CDS Deep Learning Course (LeCunn).md",
+      "x": -155.00796508789062,
+      "y": -1941.1744384765625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning Fundamentals/Neural Networks - Zero to Hero (Karpathy).md",
+      "x": -55.138797760009766,
+      "y": -1414.1490478515625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning Fundamentals/PyTorch Official Tutorials.md",
+      "x": -119.9061279296875,
+      "y": -1279.86962890625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning Fundamentals/PyTorch Videos (Persson).md",
+      "x": 5.445570945739746,
+      "y": -1275.04248046875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning NLP/CS224N (Stanford).md",
+      "x": 281.22833251953125,
+      "y": -1554.287841796875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning NLP/NLP with Transformers (von Werra).md",
+      "x": 357.83160400390625,
+      "y": -1943.5498046875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Deep Learning NLP/Transformers Official Course (Huggingface).md",
+      "x": 459.2614440917969,
+      "y": -2059.91650390625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Geometric Deep Learning/Basics of Graph Neural Networks (Jost).md",
+      "x": -464.1834411621094,
+      "y": -2080.230712890625
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Geometric Deep Learning/CS224N Deep Learning on Graphs (Stanford).md",
+      "x": -558.2725830078125,
+      "y": -2196.32763671875
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Reinforcement Learning/Reinforcement Learning (Sutton).md",
+      "x": 168.68093872070312,
+      "y": -2023.61865234375
+    },
+    {
+      "id": "Sources/3. Machine Learning/Deep Learning/Reinforcement Learning/Reinforcement Learning Hands-On (Lapan).md",
+      "x": 112.8159408569336,
+      "y": -2129.818115234375
+    },
+    {
+      "id": "Sources/4. Statistics/Bayesian Statistics/Bayesian Data Analysis (Gelman).md",
+      "x": 1501.864990234375,
+      "y": 1321.952880859375
+    },
+    {
+      "id": "Sources/4. Statistics/Bayesian Statistics/Bayesian Reasoning and ML (Barber).md",
+      "x": 1744.6451416015625,
+      "y": 1402.368896484375
+    },
+    {
+      "id": "Sources/4. Statistics/Bayesian Statistics/DATS0001 (Louppe).md",
+      "x": 1598.3792724609375,
+      "y": 1436.211181640625
+    },
+    {
+      "id": "Sources/4. Statistics/Bayesian Statistics/Student's Guide to Bayesian Statistics (Lambert).md",
+      "x": 1427.7957763671875,
+      "y": 1452.531982421875
+    },
+    {
+      "id": "Sources/4. Statistics/Classical Statistics/Book of Statistical Proofs (Unknown).md",
+      "x": 848.6689453125,
+      "y": 1210.723388671875
+    },
+    {
+      "id": "Sources/4. Statistics/Classical Statistics/Mathematical Statistics (Hogg).md",
+      "x": 905.14501953125,
+      "y": 1099.85498046875
+    },
+    {
+      "id": "Sources/4. Statistics/Classical Statistics/Statistical Distributions (Krishnamoorthy).md",
+      "x": 1091.1885986328125,
+      "y": 1137.3734130859375
+    },
+    {
+      "id": "Sources/4. Statistics/Classical Statistics/Statistical Inference (Casella).md",
+      "x": 779.3828735351562,
+      "y": 1014.124755859375
+    },
+    {
+      "id": "Sources/4. Statistics/Classical Statistics/Wackerly-DeGroot-Mittelhammer.md",
+      "x": 992.7940063476562,
+      "y": 1247.4329833984375
+    },
+    {
+      "id": "Sources/4. Statistics/Linear Regression/Intro to Regression (Montgomery).md",
+      "x": 1492.522216796875,
+      "y": 1857.0869140625
+    },
+    {
+      "id": "Sources/4. Statistics/Linear Regression/Regression Analysis - A Conditional Distribution Approach (Westfall).md",
+      "x": 1558.8653564453125,
+      "y": 1714.479248046875
+    },
+    {
+      "id": "Sources/4. Statistics/Linear Regression/Regression Modelling Strategies (Harrell).md",
+      "x": 1409.1954345703125,
+      "y": 1733.650390625
+    },
+    {
+      "id": "Sources/4. Statistics/Probability/Crack & Zhou.md",
+      "x": 772.379638671875,
+      "y": 1765.4361572265625
+    },
+    {
+      "id": "Sources/4. Statistics/Probability/Intro to Probability & Stat 110 (Blitzstein).md",
+      "x": 927.0554809570312,
+      "y": 1915.7706298828125
+    },
+    {
+      "id": "Sources/4. Statistics/Probability/Probability & Markets (Jane Street).md",
+      "x": 813.0558471679688,
+      "y": 1878.3232421875
+    },
+    {
+      "id": "Sources/4. Statistics/Survival Analysis/Survival Analysis (Moeschberger).md",
+      "x": 1076.42041015625,
+      "y": 2140.12353515625
+    },
+    {
+      "id": "Sources/4. Statistics/Survival Analysis/Survival Analysis - A Self Learning Text (Kleinbaum).md",
+      "x": 1046.312744140625,
+      "y": 1993.1837158203125
+    },
+    {
+      "id": "Sources/4. Statistics/Survival Analysis/Survival Analysis with Python (Nag).md",
+      "x": 1166.1558837890625,
+      "y": 1999.2733154296875
+    },
+    {
+      "id": "Sources/4. Statistics/Time Series/Analysis of Financial Time Series (Tsay).md",
+      "x": 355.4335632324219,
+      "y": 1257.6156005859375
+    },
+    {
+      "id": "Sources/4. Statistics/Time Series/Forecasting - Principles & Practice (Hyndman).md",
+      "x": 507.1981506347656,
+      "y": 1349.5888671875
+    },
+    {
+      "id": "Sources/4. Statistics/Time Series/Time Series Analysis in Python (Auffarth).md",
+      "x": 773.1234741210938,
+      "y": 1420.3568115234375
+    },
+    {
+      "id": "Sources/4. Statistics/Time Series/Time Series Econometrics Undergrad Course (Lambert).md",
+      "x": 660.0217895507812,
+      "y": 1460.4569091796875
+    },
+    {
+      "id": "Sources/4. Statistics/Time Series/Time Series Forecasting - Python Course (Zenhoko).md",
+      "x": 700.2024536132812,
+      "y": 1603.21826171875
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/Classical Mechanics (Morin).md",
+      "x": 1782.554443359375,
+      "y": -1354.57470703125
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/Classical Mechanics (Taylor).md",
+      "x": 1714.535400390625,
+      "y": -1214.0225830078125
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/Dynamics & Relativity (Tong).md",
+      "x": 1864.715087890625,
+      "y": -1260.82568359375
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/Feyman Lectures I - Classical Mechanics (Feynman).md",
+      "x": 1685.65673828125,
+      "y": -1097.5679931640625
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/MIT 8.01x - Classical Mechanics (Lewin).md",
+      "x": 1718.2469482421875,
+      "y": -982.0902099609375
+    },
+    {
+      "id": "Sources/5. Physics/Classical Mechanics/The Theoretical Minimum - Classical Mechanics (Susskind).md",
+      "x": 1563.8031005859375,
+      "y": -1164.630859375
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Electricity & Magnetism (Purcell).md",
+      "x": 1011.2792358398438,
+      "y": -842.0894775390625
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Electrodynamics (Griffiths).md",
+      "x": 979.5096435546875,
+      "y": -957.73779296875
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Electromagnetism (Tong).md",
+      "x": 854.73291015625,
+      "y": -792.3403930664062
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Feyman Lectures II - Electromagnetism (Feynman).md",
+      "x": 1170.100830078125,
+      "y": -730.898681640625
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Feynman Lectures III - Quantum Mechanics (Feynman).md",
+      "x": 939.7086791992188,
+      "y": -1262.600830078125
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/MIT 8.02x - Electromagnetism (Lewin).md",
+      "x": 1037.9102783203125,
+      "y": -725.148193359375
+    },
+    {
+      "id": "Sources/5. Physics/Electromagnetism/Transition to Electrical Engineering.md",
+      "x": 690.4287719726562,
+      "y": -653.5454711914062
+    },
+    {
+      "id": "Sources/5. Physics/General Relativity/A First Course in General Relativity (Schutz).md",
+      "x": 1278.9185791015625,
+      "y": -1944.352294921875
+    },
+    {
+      "id": "Sources/5. Physics/General Relativity/Spacetime & Geometry (Caroll).md",
+      "x": 1174.673095703125,
+      "y": -2052.572509765625
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/MIT 8.04 Quantum Physics I (Zwiebach).md",
+      "x": 958.4343872070312,
+      "y": -1514.30224609375
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/MIT 8.054 Quantum Physics II (Zwiebach).md",
+      "x": 887.78564453125,
+      "y": -1698.216796875
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/MIT 8.06 Quantum Physics III (Zwiebach).md",
+      "x": 858.0347290039062,
+      "y": -1851.79833984375
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Quantum Mechanics (Sakurai).md",
+      "x": 1160.27880859375,
+      "y": -1663.3511962890625
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Quantum Mechanics (Tong).md",
+      "x": 1040.5169677734375,
+      "y": -1670.8629150390625
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Quantum Mechanics (Zettili).md",
+      "x": 1094.1734619140625,
+      "y": -1525.1981201171875
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Transition to Applied QM.md",
+      "x": 839.7399291992188,
+      "y": -1388.4647216796875
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Transition to GR.md",
+      "x": 1356.4539794921875,
+      "y": -1592.183349609375
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Transition to Mech. Engineering.md",
+      "x": 1661.5174560546875,
+      "y": -876.349609375
+    },
+    {
+      "id": "Sources/5. Physics/Quantum Mechanics/Transition to QM & Relativity.md",
+      "x": 1307.3114013671875,
+      "y": -1137.1160888671875
+    },
+    {
+      "id": "Sources/5. Physics/Special Relativity/Spacetime Physics (Wheeler).md",
+      "x": 1576.16748046875,
+      "y": -1635.887939453125
+    },
+    {
+      "id": "Sources/5. Physics/Special Relativity/Special Relativity (Tsamparlis).md",
+      "x": 1477.1590576171875,
+      "y": -1517.0540771484375
+    },
+    {
+      "id": "Sources/5. Physics/Statistical Mechanics/Statistical Physics (Tong).md",
+      "x": 596.2612915039062,
+      "y": -1791.69921875
+    },
+    {
+      "id": "Sources/5. Physics/Statistical Mechanics/The Oxford Solid State Basics (Simon).md",
+      "x": 542.2123413085938,
+      "y": -1270.495361328125
+    },
+    {
+      "id": "Sources/5. Physics/Statistical Mechanics/Thermal Physics (Ch19-37) (Blundell).md",
+      "x": 607.8240356445312,
+      "y": -1642.2713623046875
+    },
+    {
+      "id": "Sources/5. Physics/Thermodynamics/Feyman Lectures I - Thermodynamics (Feynman).md",
+      "x": 1424.5009765625,
+      "y": -1053.3748779296875
+    },
+    {
+      "id": "Sources/5. Physics/Thermodynamics/Thermal Physics (Ch1-18) (Blundell).md",
+      "x": 1399.0802001953125,
+      "y": -780.6807861328125
+    },
+    {
+      "id": "Sources/5. Physics/Thermodynamics/Thermodynamics (Fermi).md",
+      "x": 1325.65673828125,
+      "y": -952.4457397460938
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/Electronics Self-Teaching Guide (Boysen).md",
+      "x": 177.34410095214844,
+      "y": -681.3012084960938
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/Information Theory - A Tutorial Introduction (Stone).md",
+      "x": 228.5268096923828,
+      "y": -336.8579406738281
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/Information Theory, Inference & Learning (Mackay).md",
+      "x": 115.48494720458984,
+      "y": -240.10997009277344
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/MIT 6.002x Circuits & Electronics (Agarwal).md",
+      "x": 227.37147521972656,
+      "y": -790.3753662109375
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/Microelectronics (Razavi).md",
+      "x": -185.7229461669922,
+      "y": -601.6209106445312
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/The Art of Electronics (Horowitz).md",
+      "x": -70.45660400390625,
+      "y": -505.3243408203125
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Circuit Fundamentals/Transition to Applied Electronics.md",
+      "x": 62.7281608581543,
+      "y": -784.5776977539062
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Digital Logic/Digital Systems from Logic Gates (Valderrama).md",
+      "x": -364.4599914550781,
+      "y": -849.84716796875
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Digital Logic/Introduction to Digital Logic (Donzellini).md",
+      "x": -222.5538330078125,
+      "y": -886.5220947265625
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Communications Theory.md",
+      "x": 169.38153076171875,
+      "y": 199.83238220214844
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Digital Communications (Sklar).md",
+      "x": 45.33190155029297,
+      "y": 277.6112060546875
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Digital Signal Processing.md",
+      "x": 310.3088684082031,
+      "y": 336.1854553222656
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/MIT 6.003 Signals & Systems 2011 (Freeman).md",
+      "x": 442.4639587402344,
+      "y": 69.09001159667969
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Signals & Systems.md",
+      "x": 432.7839050292969,
+      "y": -102.71781158447266
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Signals, Systems & Inference (Oppenheim).md",
+      "x": 329.18450927734375,
+      "y": 24.0080509185791
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/The Signal - A History of Signal Processing (Lewis).md",
+      "x": 582.2337646484375,
+      "y": -199.49652099609375
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Transition from Signals & Systems.md",
+      "x": 326.5429382324219,
+      "y": 181.41795349121094
+    },
+    {
+      "id": "Sources/6. Electrical Engineering/Signal Processing/Understanding Digital Signal Processing (Lyons).md",
+      "x": 226.55148315429688,
+      "y": 458.98876953125
+    },
+    {
+      "id": "Sources/8. Quant/Brainteasers/Heard on the Street (Crack).md",
+      "x": -279.60345458984375,
+      "y": 2215.166748046875
+    },
+    {
+      "id": "Sources/8. Quant/Brainteasers/The Green Book (Zhou).md",
+      "x": -152.9204864501953,
+      "y": 2210.694091796875
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Credit Risk Pricing (Duffie).md",
+      "x": -615.3549194335938,
+      "y": 1437.52880859375
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/FAQs in Quant Finance.md",
+      "x": -820.9908447265625,
+      "y": 1976.430419921875
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Fixed Income RVA (Huggins).md",
+      "x": -604.8108520507812,
+      "y": 1580.10498046875
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Fixed Income.md",
+      "x": -549.9255981445312,
+      "y": 1862.0147705078125
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Intro to Fixed Income Analytics (Fabozzi).md",
+      "x": -620.1266479492188,
+      "y": 1726.4971923828125
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Options Volatility & Pricing (Natenberg).md",
+      "x": -586.7747192382812,
+      "y": 2200.11181640625
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Options.md",
+      "x": -526.92041015625,
+      "y": 2050.703369140625
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Positional Options Trading (Sinclair).md",
+      "x": -712.5528564453125,
+      "y": 2287.937744140625
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Volatility Trading (Sinclair).md",
+      "x": -855.7307739257812,
+      "y": 2252.3642578125
+    },
+    {
+      "id": "Sources/8. Quant/Derivatives & Fixed Income/Wilmott Introduces Quant Finance.md",
+      "x": -672.3844604492188,
+      "y": 1970.2667236328125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/AFML (De Prado).md",
+      "x": 274.3519287109375,
+      "y": 1378.97900390625
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/AI4T (Worldquant).md",
+      "x": 119.03117370605469,
+      "y": 1432.8297119140625
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Active Equity Management (Zhou).md",
+      "x": 134.56204223632812,
+      "y": 2125.157470703125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Advanced Portfolio Management (Paleologo).md",
+      "x": 188.42239379882812,
+      "y": 2265.940673828125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/BD&AI (Rajesh).md",
+      "x": -230.8568878173828,
+      "y": 1386.2696533203125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Chad Thackray.md",
+      "x": 456.8738098144531,
+      "y": 1967.076416015625
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Gautier Marti Blog.md",
+      "x": 211.22499084472656,
+      "y": 1116.905029296875
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Gregory Gundersen Blog.md",
+      "x": 86.07305145263672,
+      "y": 1154.7159423828125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Inside the Black Box (Narang).md",
+      "x": -185.22732543945312,
+      "y": 1530.6739501953125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Learn Algotrading (Donadio).md",
+      "x": 367.41925048828125,
+      "y": 2059.67626953125
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/ML4T (Janssen).md",
+      "x": 184.88291931152344,
+      "y": 1265.863037109375
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Quant Implementation Prep.md",
+      "x": 318.3033142089844,
+      "y": 1915.8609619140625
+    },
+    {
+      "id": "Sources/8. Quant/Systematic Trading/Quantitative Portfolio Management (Isichenko).md",
+      "x": -307.6629333496094,
+      "y": 1265.2950439453125
+    },
+    {
+      "id": "Topics/AWS.md",
+      "x": -1061.8428955078125,
+      "y": 426.5528869628906
+    },
+    {
+      "id": "Topics/Abstract Algebra.md",
+      "x": 1882.3238525390625,
+      "y": -421.617431640625
+    },
+    {
+      "id": "Topics/Aging.md",
+      "x": -1968.41650390625,
+      "y": -1105.949462890625
+    },
+    {
+      "id": "Topics/Airflow.md",
+      "x": -1358.4459228515625,
+      "y": 420.5415954589844
+    },
+    {
+      "id": "Topics/Algebraic Geometry.md",
+      "x": 2420.43212890625,
+      "y": -543.8114624023438
+    },
+    {
+      "id": "Topics/Algorithms & Data Structures (S).md",
+      "x": -826.4959106445312,
+      "y": -231.1459197998047
+    },
+    {
+      "id": "Topics/Applied Electronics.md",
+      "x": -46.596229553222656,
+      "y": -653.067626953125
+    },
+    {
+      "id": "Topics/Bayesian Statistics.md",
+      "x": 1248.1163330078125,
+      "y": 1536.464111328125
+    },
+    {
+      "id": "Topics/Biological Science.md",
+      "x": -2100.792724609375,
+      "y": -912.1055297851562
+    },
+    {
+      "id": "Topics/Biology.md",
+      "x": -1915.724365234375,
+      "y": -927.6355590820312
+    },
+    {
+      "id": "Topics/Brainteasers & Interview Questions.md",
+      "x": -224.1079559326172,
+      "y": 2075.0390625
+    },
+    {
+      "id": "Topics/C++.md",
+      "x": -1162.361572265625,
+      "y": 1040.5491943359375
+    },
+    {
+      "id": "Topics/C.md",
+      "x": -1471.6324462890625,
+      "y": 788.718505859375
+    },
+    {
+      "id": "Topics/CS Fundamentals.md",
+      "x": -906.695556640625,
+      "y": -26.826400756835938
+    },
+    {
+      "id": "Topics/Calculus.md",
+      "x": 1639.0460205078125,
+      "y": -50.02402877807617
+    },
+    {
+      "id": "Topics/Category Theory.md",
+      "x": 1797.5201416015625,
+      "y": -225.19955444335938
+    },
+    {
+      "id": "Topics/Causality.md",
+      "x": 1134.1666259765625,
+      "y": 1498.8441162109375
+    },
+    {
+      "id": "Topics/Chemical Principles.md",
+      "x": -1440.4537353515625,
+      "y": -796.0445556640625
+    },
+    {
+      "id": "Topics/Chemistry.md",
+      "x": -1572.05859375,
+      "y": -731.5460815429688
+    },
+    {
+      "id": "Topics/Circuits.md",
+      "x": 331.6082763671875,
+      "y": -646.9894409179688
+    },
+    {
+      "id": "Topics/Classical Electromagnetism (S).md",
+      "x": 1185.163330078125,
+      "y": -877.5133666992188
+    },
+    {
+      "id": "Topics/Classical ML (S).md",
+      "x": -554.341064453125,
+      "y": -1509.589599609375
+    },
+    {
+      "id": "Topics/Classical Machine Learning.md",
+      "x": -607.46240234375,
+      "y": -1660.151123046875
+    },
+    {
+      "id": "Topics/Classical Mechanics (S).md",
+      "x": 1564.1217041015625,
+      "y": -1012.2623901367188
+    },
+    {
+      "id": "Topics/Classical NLP.md",
+      "x": -741.814453125,
+      "y": -1546.1805419921875
+    },
+    {
+      "id": "Topics/Classical Statistics.md",
+      "x": 1027.0313720703125,
+      "y": 1433.666015625
+    },
+    {
+      "id": "Topics/Compilers & Interpreters (S).md",
+      "x": -687.5784912109375,
+      "y": -146.33663940429688
+    },
+    {
+      "id": "Topics/Complex Analysis.md",
+      "x": 1702.611083984375,
+      "y": -151.7877655029297
+    },
+    {
+      "id": "Topics/Computational Theory (S).md",
+      "x": -721.481201171875,
+      "y": -13.463430404663086
+    },
+    {
+      "id": "Topics/Computer Architecture (S).md",
+      "x": -984.106201171875,
+      "y": -236.4005126953125
+    },
+    {
+      "id": "Topics/Computer Networking (S).md",
+      "x": -745.6969604492188,
+      "y": 104.0657958984375
+    },
+    {
+      "id": "Topics/Computer Science.md",
+      "x": -1215.617431640625,
+      "y": 292.7633361816406
+    },
+    {
+      "id": "Topics/Computer Vision.md",
+      "x": -118.51978302001953,
+      "y": -2147.2001953125
+    },
+    {
+      "id": "Topics/Condensed Matter.md",
+      "x": 681.7379760742188,
+      "y": -1324.0162353515625
+    },
+    {
+      "id": "Topics/Conformal Prediction.md",
+      "x": -679.747802734375,
+      "y": -1356.4169921875
+    },
+    {
+      "id": "Topics/Containers.md",
+      "x": -913.9742431640625,
+      "y": 226.61318969726562
+    },
+    {
+      "id": "Topics/Control Theory.md",
+      "x": 2003.3114013671875,
+      "y": -907.7657470703125
+    },
+    {
+      "id": "Topics/Data Engineering.md",
+      "x": -1212.325927734375,
+      "y": 440.6416015625
+    },
+    {
+      "id": "Topics/Deep Learning (S).md",
+      "x": -178.84727478027344,
+      "y": -1727.4854736328125
+    },
+    {
+      "id": "Topics/Deep Learning Fundamentals (Torch).md",
+      "x": -123.27783966064453,
+      "y": -1567.30078125
+    },
+    {
+      "id": "Topics/Deep Learning NLP.md",
+      "x": 35.7203369140625,
+      "y": -1747.309326171875
+    },
+    {
+      "id": "Topics/Derivatives & Fixed Income.md",
+      "x": -391.8683166503906,
+      "y": 1926.593017578125
+    },
+    {
+      "id": "Topics/DevOps.md",
+      "x": -1053.9603271484375,
+      "y": 272.7522888183594
+    },
+    {
+      "id": "Topics/Digital Logic.md",
+      "x": -67.29932403564453,
+      "y": -872.3322143554688
+    },
+    {
+      "id": "Day Planners/C4 Interlude (4).md",
+      "x": -1169.3387451171875,
+      "y": -2087.1552734375
+    },
+    {
+      "id": "Day Planners/Day Planner-20221129.md",
+      "x": -1010.8427124023438,
+      "y": -1994.24609375
+    },
+    {
+      "id": "Day Planners/Planning.md",
+      "x": -1031.8021240234375,
+      "y": -2137.526611328125
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Algorithms & Data Structures/Leetcode-Hackerrank Practice (Easy-Medium).md",
+      "x": -847.2260131835938,
+      "y": -382.7938232421875
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Algorithms & Data Structures/MIT 6.006 Intro to Algorithms.md",
+      "x": -728.3920288085938,
+      "y": -399.4795837402344
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Algorithms & Data Structures/MIT 6.046 Design & Analysis of Algos (Devadas).md",
+      "x": -670.9052124023438,
+      "y": -544.8014526367188
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Compilers & Interpreters/Basics of Compiler Design (Mogensen).md",
+      "x": -499.7099609375,
+      "y": -175.21620178222656
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Compilers & Interpreters/Crafting Interpreters (Nystrom).md",
+      "x": -552.4180908203125,
+      "y": -283.0155944824219
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Compilers & Interpreters/Engineering a Compiler (Cooper).md",
+      "x": -389.9614562988281,
+      "y": -295.28497314453125
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computational Theory/Intro to Theory of Computability (Sipser).md",
+      "x": -376.5931396484375,
+      "y": 28.679073333740234
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computational Theory/The Annotated Turing (Petzold).md",
+      "x": -531.9407348632812,
+      "y": 19.626115798950195
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Architecture/Code (Petzold).md",
+      "x": -1057.55029296875,
+      "y": -445.0940246582031
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Architecture/Computer Architecture (Ledin).md",
+      "x": -1104.0325927734375,
+      "y": -746.44580078125
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Architecture/Computer Organization and Design (Patterson).md",
+      "x": -1075.666015625,
+      "y": -889.9841918945312
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Architecture/Essentials of Computer Architecture (Comer).md",
+      "x": -1147.094482421875,
+      "y": -591.1376342773438
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Architecture/MIT 6.004 Computation Structures (Terman).md",
+      "x": -1024.50390625,
+      "y": -613.4208374023438
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Networking/CS144 Intro to Computer Networking (Stanford).md",
+      "x": -403.86370849609375,
+      "y": 308.3243408203125
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Networking/Computer Networking - A Systems Approach.md",
+      "x": -253.2172088623047,
+      "y": 302.24700927734375
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Networking/Data Communications (Forouzan).md",
+      "x": -311.7124328613281,
+      "y": 427.7248229980469
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Computer Networking/Fundamentals of Networking (Nasser) $16.md",
+      "x": -564.87939453125,
+      "y": 223.2084503173828
+    },
+    {
+      "id": "Sources/1. Computer Science/Fundamentals/Operating Systems/Operating Systems - 3 Easy Steps (D).md",
+      "x": -1177.6322021484375,
+      "y": -203.27975463867188
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/A Tour of C++ (Stroustrup).md",
+      "x": -1033.92529296875,
+      "y": 1768.5809326171875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/Accelerated C++ (Koenig).md",
+      "x": -1068.08056640625,
+      "y": 1624.3128662109375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/C++ - An OOP Approach (Forouzan).md",
+      "x": -1138.5374755859375,
+      "y": 1481.6727294921875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/C++ Fundamentals.md",
+      "x": -1105.3040771484375,
+      "y": 1306.4771728515625
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/C++ Primer (Lippmann).md",
+      "x": -1019.5667724609375,
+      "y": 1466.0023193359375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/C++ Specializations.md",
+      "x": -1067.584716796875,
+      "y": 1159.1993408203125
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C++/Effective C++ (Meyers).md",
+      "x": -1170.8433837890625,
+      "y": 1732.7628173828125
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C/C Fundamentals.md",
+      "x": -1700.685302734375,
+      "y": 839.55712890625
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C/C Specializations.md",
+      "x": -1608.6614990234375,
+      "y": 729.4956665039062
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C/Effective C (Seacord).md",
+      "x": -1832.52587890625,
+      "y": 928.0620727539062
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/C/Modern C (Gustadt).md",
+      "x": -1854.40625,
+      "y": 810.07568359375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Go/Go Fundamentals.md",
+      "x": -1429.498779296875,
+      "y": 1224.3499755859375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Go/Go Specializations.md",
+      "x": -1308.0352783203125,
+      "y": 1159.437744140625
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Go/Learning Go (Bodner).md",
+      "x": -1547.681884765625,
+      "y": 1328.567138671875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Go/The Go Programming Language (Kernighan).md",
+      "x": -1439.4547119140625,
+      "y": 1380.400146484375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/OCaml/OCaml Fundamentals.md",
+      "x": -863.2285766601562,
+      "y": 690.1343383789062
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/OCaml/OCaml Specializations.md",
+      "x": -916.72119140625,
+      "y": 797.5511474609375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/OCaml/OCaml from the Very Beginning (Whitington).md",
+      "x": -685.19140625,
+      "y": 685.914794921875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/OCaml/Real World Ocaml.md",
+      "x": -534.7745361328125,
+      "y": 684.8848266601562
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Applied Python Projects.md",
+      "x": -930.3539428710938,
+      "y": 1019.63623046875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Effective Python (Slatkin).md",
+      "x": -279.588623046875,
+      "y": 864.246826171875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Learning Python (Lutz).md",
+      "x": -587.4827880859375,
+      "y": 992.7759399414062
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Python Distilled (Beasley).md",
+      "x": -400.8457336425781,
+      "y": 975.7765502929688
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Python Fundamentals.md",
+      "x": -799.029296875,
+      "y": 962.7205200195312
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/Python Library Source Code Exploration.md",
+      "x": -125.81381225585938,
+      "y": 861.4013671875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Python/The Python 3 Standard Library (Hellman).md",
+      "x": -235.46066284179688,
+      "y": 976.7091064453125
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Rust/Programming Rust (Blandy).md",
+      "x": -1900.4986572265625,
+      "y": 1264.62109375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Rust/Rust Fundamentals.md",
+      "x": -1634.3026123046875,
+      "y": 1044.821044921875
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Rust/Rust Specializations.md",
+      "x": -1514.5758056640625,
+      "y": 1052.866943359375
+    },
+    {
+      "id": "Sources/1. Computer Science/Native Development/Rust/The Rust Programming Language (Klabnik).md",
+      "x": -1784.047607421875,
+      "y": 1167.160888671875
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/HTML & CSS/Head First HTML & CSS (Robson).md",
+      "x": -1732.78466796875,
+      "y": 403.48614501953125
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/HTML & CSS/Responsive  Web Design (Frain).md",
+      "x": -1828.3775634765625,
+      "y": 330.94879150390625
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/Java/Java - The Complete Reference (Schildt).md",
+      "x": -2391.140625,
+      "y": -24.653934478759766
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/Java/Java Frameworks.md",
+      "x": -2010.061767578125,
+      "y": 138.71405029296875
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/Java/Java Fundamentals.md",
+      "x": -2094.97265625,
+      "y": 48.6448974609375
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/Java/Java in a Nutshell (Flanagan).md",
+      "x": -2268.253662109375,
+      "y": 75.91490173339844
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/Java/Learning Java (Loy).md",
+      "x": -2240.057861328125,
+      "y": -45.9765739440918
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/Beginning MERN Stack (Lim).md",
+      "x": -2059.777099609375,
+      "y": -176.41847229003906
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/Eloquent JavaScript (Flanagan).md",
+      "x": -2271.18505859375,
+      "y": 461.0568542480469
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/Get Programming with NodeJS (Wexler).md",
+      "x": -1998.6558837890625,
+      "y": -279.6860656738281
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/JavaScript - The Definitive Guide (Flanagan).md",
+      "x": -2172.420654296875,
+      "y": 549.049560546875
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/JavaScript Frameworks.md",
+      "x": -1920.0760498046875,
+      "y": -122.24595642089844
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/JavaScript Fundamentals.md",
+      "x": -2004.9791259765625,
+      "y": 258.60546875
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/JavaScript from Beginner to Professional (Svekis).md",
+      "x": -2132.268798828125,
+      "y": 401.6061096191406
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/MongoDB - The Definitive Guide (Bradshaw).md",
+      "x": -1782.5010986328125,
+      "y": -183.4104461669922
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/NodeJS Design Patterns (Casciaro).md",
+      "x": -2098.058837890625,
+      "y": -395.5021667480469
+    },
+    {
+      "id": "Sources/1. Computer Science/Web Development/JavaScript/Road to React (Wieruch).md",
+      "x": -1870.092529296875,
+      "y": -265.4311828613281
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Beginners Course $30 (ToB).md",
+      "x": -1712.6710205078125,
+      "y": -1488.8931884765625
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Beginners Tutorial (Amadee).md",
+      "x": -1531.028564453125,
+      "y": -1566.360595703125
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Install & Setup (FEM).md",
+      "x": -1575.3389892578125,
+      "y": -1420.8297119140625
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Intermediate Course $40 (ToB).md",
+      "x": -1672.918701171875,
+      "y": -1779.958984375
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Intermediate.md",
+      "x": -1669.1654052734375,
+      "y": -1634.5078125
+    },
+    {
+      "id": "Sources/12. Personal/Facehacking/Manim Tutorials (Hackl).md",
+      "x": -1546.6064453125,
+      "y": -1722.742431640625
+    },
+    {
+      "id": "Sources/2. Mathematics/Abstract Algebra/A Book of Abstract Algebra (Pinter).md",
+      "x": 2032.8157958984375,
+      "y": -529.5303955078125
+    },
+    {
+      "id": "Sources/2. Mathematics/Abstract Algebra/A First Course in Abstract Algebra (Fraleigh).md",
+      "x": 2063.735107421875,
+      "y": -413.5853271484375
+    },
+    {
+      "id": "Sources/2. Mathematics/Abstract Algebra/Algebra (Artin).md",
+      "x": 2196.245849609375,
+      "y": -503.30859375
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Calculus Fundamentals/Calculus Fundamentals.md",
+      "x": 1632.8187255859375,
+      "y": 237.86375427246094
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Calculus Fundamentals/MIT 18.01 Single Variable Calculus 2007 (Jerison).md",
+      "x": 1731.700927734375,
+      "y": 350.4544677734375
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Calculus Fundamentals/Transition from Calculus.md",
+      "x": 1630.7020263671875,
+      "y": 501.46051025390625
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Calculus Fundamentals/Transition from Vector Calculus.md",
+      "x": 1258.1253662109375,
+      "y": 880.7669067382812
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Differential Equations/Basic Partial Differential Eqns (Bleecker).md",
+      "x": 2155.293212890625,
+      "y": 918.374267578125
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Differential Equations/Elementary Differential Equations (Trench).md",
+      "x": 1965.8582763671875,
+      "y": 725.4918212890625
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Differential Equations/Ordinary Differential Eqns Course (Bramburger).md",
+      "x": 1872.5732421875,
+      "y": 800.97314453125
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Differential Equations/Partial Differential Equations (Strauss).md",
+      "x": 1998.1905517578125,
+      "y": 1047.7103271484375
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Multivariable & Vector Calculus/Illustrative M&V Calculus (Miklavic).md",
+      "x": 1489.2135009765625,
+      "y": 792.4104614257812
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Multivariable & Vector Calculus/MIT 18.02 Multivariable Calculus 2007 (Auroux).md",
+      "x": 1579.640869140625,
+      "y": 871.2918090820312
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Multivariable & Vector Calculus/Multivariable & Vector Calculus.md",
+      "x": 1613.8409423828125,
+      "y": 696.1151123046875
+    },
+    {
+      "id": "Sources/2. Mathematics/Calculus/Multivariable & Vector Calculus/Vector Calculus (Tong).md",
+      "x": 1421.95068359375,
+      "y": 930.59814453125
+    },
+    {
+      "id": "Sources/2. Mathematics/Category Theory/Basic Category Theory (Leinster).md",
+      "x": 2010.387939453125,
+      "y": 55.223690032958984
+    },
+    {
+      "id": "Sources/2. Mathematics/Category Theory/Category Theory for Scientists (Spivak).md",
+      "x": 1931.3369140625,
+      "y": -80.84078216552734
+    },
+    {
+      "id": "Sources/2. Mathematics/Complex Analysis/Complex Analysis (Tall).md",
+      "x": 1844.5064697265625,
+      "y": 173.59141540527344
+    },
+    {
+      "id": "Sources/2. Mathematics/Complex Analysis/Visual Complex Analysis (Needham).md",
+      "x": 1770.435302734375,
+      "y": 34.49922561645508
+    },
+    {
+      "id": "Sources/2. Mathematics/Linear Algebra/Applied (Numerical) Linear Algebra.md",
+      "x": 1203.863037109375,
+      "y": -154.70037841796875
+    },
+    {
+      "id": "Day Planners/Day Planner-20221130.md",
+      "x": -887.128662109375,
+      "y": -2154.362060546875
+    }
+  ],
+  "automaticallyRestoreNodePositions": true
+}
