@@ -1,6 +1,7 @@
-Type: #topic
+Type: #topic 
 
----
+----
+
 # Overview
 
 **Syllabus** - For now, focus on **Interview Questions**, **Data Structures**, **Implementation**.
@@ -9,14 +10,17 @@ Type: #topic
 
 ## Interview Questions
 
-**Interview Prep Books:** C, Z, W, M, N, 18.01
+After finishing brainteasers & probability/stats qns, we have 4 paths. The **financial economics path**, the **nontechnical math questions path**, the **technical math questions path**, the **stochastic processes path**, **options path** and **data structures path**.
 
-1. Brainteaser qns (C, Z) ✅
-2. Non-technical math qns (C, Z) ✅
-3. (Blitzstein) Prob/Statistics qns | (Mittelhammer) Statistics fundamentals❗
-5. (Mehrling) Money & banking | (Wilmott) fixed income basics | (Crack) financial economics qns
-6. (18.01, Meyer, Abbott) Calculus, linear algebra | (Crack, Zhou) Math qns 
-7. (Wilmott, Natenberg) Derivatives qns
+* (C, Z) Brainteasers ✅
+* (C, Z) Prob & stats qns ✅
+
+* Data structures
+
+* (C) Financial economics qns
+* (Natenberg, Hull, Wilmott) Option fundamentals > (Crack, Zhou) Derivatives qns
+* (18.01, Meyer, Abbott) Calculus, linear algebra > (Z) Technical math qns 
+* (Jones) S.p > (Z) S.p qns
 
 ## Data Structures
 
@@ -43,3 +47,4 @@ Backtesting/Quant Libraries - Zipline, Backtester, Backtesting.py, VectorBT, Alp
 ## Systematic Trading Fundamentals
 
 Systematic Trading Books - Continue making progress. But first, spend some time on **interview & hybrid** content. 
+

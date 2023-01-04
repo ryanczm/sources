@@ -1,3 +1,3 @@
 Type: #subtopic
-Subtopic: [[Deep Learning (S)]]
+Subtopic: [[Transition from DL Fundamentals]]
 Topic: Machine Learning

@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "33eb23e40f95c1bd",
+        "id": "968545ac5775b6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "9cdb0d6175508994",
+            "id": "1f420964b520d846",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20230104.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1a578b46cf1ccfe0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -46,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#intermediate",
+                "query": "tag:#incomplete",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Day Planners/Day Planner-20230104.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +105,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Day Planners/Day Planner-20230104.md"
+              }
             }
           }
         ]
@@ -100,17 +117,28 @@
     "width": 272.5,
     "collapsed": true
   },
-  "active": "9cdb0d6175508994",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "1f420964b520d846",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20221212.md",
-    "Topics/Quant (S).md",
-    "Day Planners/Planning.md",
-    "Day Planners/C4R5.md",
-    "Day Planners/C4 Interlude (4).md",
-    "Sources/8. Quant/Derivatives & Fixed Income/Economics of Money & Banking Coursera (Mehrling).md",
-    "Sources/8. Quant/Derivatives & Fixed Income/Intro to Fixed Income Analytics (Fabozzi).md",
-    "Topics/Python (S).md",
-    "Topics/CS Fundamentals.md",
-    "Topics/Deep Learning (S).md"
+    "Day Planners/Day Planner-20230104.md",
+    "Day Planners/Day Planner-20230103.md",
+    "Topics/CS Concept Dump.md",
+    "Topics/Scientific Computing.md",
+    "Topics/Data Engineering.md",
+    "Day Planners/Day Planner-20230102.md",
+    "Topics/Blogs (S).md",
+    "Sources/1. Computer Science/Web Development/HTML & CSS/CS Blogs (CTO + Company Tech).md",
+    "Sources/1. Computer Science/Web Development/HTML & CSS/ML Blogs.md",
+    "Topics/Deep Learning NLP.md"
   ]
 }

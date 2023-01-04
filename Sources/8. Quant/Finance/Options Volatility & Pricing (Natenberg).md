@@ -1,7 +1,7 @@
 Type: #course
 Prerequisites: [[Options]]
 Status: #incomplete
-Level: #intro 
+Level: #intermediate 
 
 ----
 # About

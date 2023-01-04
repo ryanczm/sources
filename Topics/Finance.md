@@ -1,2 +1,2 @@
 Type: #subtopic
-Topic: [[Econs & Finance]]
+Topic: [[Quant (S)]]

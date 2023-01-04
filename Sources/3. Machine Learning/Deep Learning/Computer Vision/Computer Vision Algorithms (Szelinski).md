@@ -1,5 +1,5 @@
 Type: #video 
-Prerequisites: [[Computer Vision]]
+Prerequisites: [[Classical Computer Vision]]
 Status: #untouched 
 Level: #intermediate 
 

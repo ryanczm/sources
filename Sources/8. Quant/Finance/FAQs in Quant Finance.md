@@ -1,7 +1,7 @@
 Type: #book
 Prerequisites: [[Wilmott Introduces Quant Finance]]
 Status: #incomplete
-Level: #intermediate 
+Level: #advanced 
 
 ----
 # About

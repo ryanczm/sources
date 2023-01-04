@@ -1,7 +1,7 @@
 Type: #book
 Prerequisites: [[Intro to Fixed Income Analytics (Fabozzi)]]
 Status: #incomplete 
-Level: #intermediate 
+Level: #advanced  
 
 ----
 # About

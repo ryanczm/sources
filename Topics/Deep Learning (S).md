@@ -24,7 +24,7 @@ Other deep learning areas can be done after or concurrently the second based on 
 
 # Other Deep Learning Areas - CV, RL, GN
 
-* LeCunn - We can try LeCunn's course first.
-* Computer Vision - Do Ayyadevara.
-* Reinforcement Learning - TBC
-* Graph Networks - Jost.
+* LeCunn - Do this first.
+* Computer Vision - CS231n, Ayyadevara
+* Reinforcement Learning - CS234, Lapan, Sutton
+* Graph Networks - CS224n

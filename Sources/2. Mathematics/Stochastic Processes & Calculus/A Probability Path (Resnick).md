@@ -1,5 +1,5 @@
 Type: #book
-Prerequisites: [[Stochastic Processes & Calculus]]
+Prerequisites: [[(Rigorous) Stochastic Processes & Calculus]]
 Status: #untouched 
 Level: #advanced 
 

@@ -1,5 +1,5 @@
 Type: #video 
-Prerequisites: [[Computer Vision]]
+Prerequisites: [[Deep Learning Computer Vision]]
 Status: #untouched 
 Level: #intro 
 

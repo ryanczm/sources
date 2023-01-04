@@ -1,6 +1,6 @@
 Type: #book
 Prerequisites: [[Fixed Income]]
-Status: #incomplete 
+Status: #intermediate  
 Level: #intro 
 
 ----

@@ -1,7 +1,7 @@
 Type: #book
 Prerequisites: [[Options]] | [[Fixed Income]]
 Status: #incomplete
-Level: #intermediate 
+Level: #advanced 
 
 ----
 # About
